@@ -1,6 +1,7 @@
 # AI-Cybersecurity-DSCI-6672:
 
-This repo Contains all the programming lab assignments from course AI & Cybersecurity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repo contains all the programming lab assignments from course AI & Cybersecurity. *The datasets used in the Jupyter notebooks are available in the Data Files folder of this repo.*
+
 
 ## Assignments:
 
@@ -10,8 +11,7 @@ This repo Contains all the programming lab assignments from course AI & Cybersec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Jupyter notebook covers the workflow of training a single-layer perceptron model to create a phish detector. The step by step process involves reading data from CSV file, creating samples and target datasets, splitting the data to train and test datasets, importing and using [Perceptron model from sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html), fitting the model with tain dataset, predicting the target values of test dataset and caluclating the preformance of the model. Hyperparameters are tunned to acheive better performance.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Details:** The dataset used in Perceptron for Phish Detection Jupyter Notebook is extracted from UCI Machine Learning Repository: [Phishing Websites Data Set](https://archive.ics.uci.edu/ml/datasets/phishing+websites). And the dataset is also provided in the Data Files folder of this repo.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Details:** The dataset used in Perceptron for Phish Detection Jupyter Notebook is extracted from UCI Machine Learning Repository: [Phishing Websites Data Set](https://archive.ics.uci.edu/ml/datasets/phishing+websites). 
 
 ## References
 
