@@ -11,13 +11,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Details:** The dataset used in Perceptron for Phish Detection Jupyter Notebook is extracted from UCI Machine Learning Repository: [Phishing Websites Data Set](https://archive.ics.uci.edu/ml/datasets/phishing+websites). 
 
-* [Logistic Regression for SMS Spam Classification](https://github.com/shreyagopal/AI-Cybersecurity-DSCI-6672/blob/master/Logistic%20Regression%20for%20Spam%20Classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyagopal/AI-Cybersecurity-DSCI-6672/blob/master/Logistic%20Regression%20for%20Spam%20Classification.ipynb)
+* [Logistic Regression for SMS Spam Classification](https://github.com/shreyagopal/AI-Cybersecurity-DSCI-6672/blob/master/2.%20Logistic%20Regression%20for%20SMS%20Spam%20Classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyagopal/AI-Cybersecurity-DSCI-6672/blob/master/2.%20Logistic%20Regression%20for%20SMS%20Spam%20Classification.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What is Logistic Regression??** Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The outcome is measured with a dichotomous variable (in which there are only two possible outcomes). Hyperparameters in the model are tunned to achieve better performance.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Details:** The dataset used in Logistic Regression for Spam Classification Jupyter Notebook is a refined dataset of [SMS Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection), extracted from UCI Machine Learning Repository.
 
-* [SVM for Phish Detection](https://github.com/shreyagopal/AI-Cybersecurity-DSCI-6672/blob/master/3.%20SVM%20for%20Phish%20Detection.ipynb) [![Open In Colab](https://colab.research.google.com/github/shreyagopal/AI-Cybersecurity-DSCI-6672/blob/master/3.%20SVM%20for%20Phish%20Detection.ipynb)
+* [SVM for Phish Detection](https://github.com/shreyagopal/AI-Cybersecurity-DSCI-6672/blob/master/3.%20SVM%20for%20Phish%20Detection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyagopal/AI-Cybersecurity-DSCI-6672/blob/master/3.%20SVM%20for%20Phish%20Detection.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What are SVMs??** In machine learning, support-vector machines (SVMs, also support-vector networks) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. Hyperparameters in the model are tunned to achieve better performance.
 
